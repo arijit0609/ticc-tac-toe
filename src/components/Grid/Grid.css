@@ -1,0 +1,12 @@
+.grid{
+    height:500%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column: span;
+    justify-content: space-between;
+    align-items: space-between;
+}
+.turn-highlight{
+    color:white;
+}
